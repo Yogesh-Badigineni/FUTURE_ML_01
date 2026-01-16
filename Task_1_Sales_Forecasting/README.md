@@ -29,6 +29,4 @@ This project implements a sales forecasting system using Machine Learning. It pr
 ## Dataset
 The project uses a simulated retail dataset representing daily sales for 5 products across 3 stores over a 2-year period.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Copyright (c) 2026 Yogesh Badigineni. All rights reserved.
+
